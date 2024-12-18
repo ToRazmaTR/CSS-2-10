@@ -1,0 +1,297 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainContainer {
+    max-width: 1920px;
+    padding: 64px 158px 368px 158px;
+    background: #FFF;
+}
+
+#middleContainer {
+    padding: 96px;
+    background: #E2F7FF;
+}
+
+#siteContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+}
+
+
+#headerContainer {
+    text-align: left;
+}
+
+#olivia {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#ux {
+    color: #181D27;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+#howDo {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+.buttonContainer input[type="button"],input[type="text"] {
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#design {
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#research {
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
+}
+
+#presentation {
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    color: #C11574;
+}
+
+.cardsFirstp {
+    color: #6941C6;
+    font-size: 14px;
+    padding-bottom: 8px;
+    padding-top: 20px;
+}
+
+.cardsSecondp {
+    color: #181D27;
+    font-size: 24px;
+    padding-bottom: 8px;
+}
+
+.cardsThirdp {
+    color: #535862;
+    font-size: 16px;
+    padding-bottom: 24px;
+}
+
+.middleCardcontainer {
+    margin-top: 64px;
+}
+
+.endCardcontainer {
+    margin-top: 64px;
+}
+
+#cardOne {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#Product {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #026AA2;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#Tools {
+    color: #C11574;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#SaaS {
+    color: #C11574;
+    background: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#cardTwo {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+
+#SoftwareDevelopment {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #067647;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#Tools2 {
+    color: #C11574;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#cardThree {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+
+#Leadership {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #6941C6;
+    border: 1px solid #ABEFC6;
+    background: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    font-size: 14px;
+    border-radius: 9999px;
+}
+
+#Management {
+    color: #363F72;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#cardfour {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#Product2 {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #026AA2;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    border: 1px solid #E9D7FE;
+    font-size: 14px;
+    border-radius: 9999px;
+}
+
+#Research {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #3538CD;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    border: 1px solid #E9D7FE;
+    font-size: 14px;
+    border-radius: 9999px;
+}
+
+#Frameworks {
+    border: 1px solid #F9DBAF;background: #FEF6EE;
+    background: #F8F9FC;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    margin-right: 8px;
+    color: #B93815;;
+}
+
+#cardFive {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+
+#Design {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    font-size: 14px;
+    border-radius: 9999px;
+}
+
+#Research2 {
+    color: #3538CD;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
+
+#cardSix {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+
+#Design2 {
+    margin-right: 8px;
+    padding: 8px 12px;
+    color: #6941C6;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    font-size: 14px;
+    border-radius: 9999px;
+}
+
+#Research3 {
+    color: #3538CD;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-right: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+}
